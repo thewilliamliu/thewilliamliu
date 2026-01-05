@@ -4,5 +4,5 @@
 - :man_cook: Currently working on a Beli–Goodnotes hybrid with pairwise comparison–based ranking and preference aggregation for books.
 - :brain: Learning about front-end, databases, ML, and more. Also currently reading Dante's Divine Comedy.
 - :compass: Looking for research opportunities, startup coding projects, and interesting conversations about the future.
-- :camera_flash: Like classical music, travelling the world, and drinking coffee/matcha.
+- :camera_flash: Like classical music, travel photography, and drinking coffee/matcha.
 - :mailbox: Reach me at williamliu [at] princeton.edu
